@@ -1,0 +1,6 @@
+*.txt
+*.bat
+*.o
+*.exe
+main.cpp
+.vscode
